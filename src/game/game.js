@@ -255,7 +255,7 @@ Game.draw = function() {
 Game.over = function () {
     gameover = true; // PERDEU!!!!
     /*Player morreu ai tenta trocar o grafico?*/
-    player.src = "gameover.png";
+    player.src = "res/img/gameover.png";
     this.context.drawImage(player,player_x,player_y-20,70,161);
 
     this.context.font = 'italic 123px Arial';
@@ -371,7 +371,7 @@ Game.update = function() {
               break;
 
             case TYPES.CAR:
-              enemy_car.src = "gameover-enemy.png";
+              enemy_car.src = "res/img/gameover-enemy.png";
               this.context.drawImage(enemy_car,this.elements[i].x,this.elements[i].y-20,70,161);
               this.over();
               break;
