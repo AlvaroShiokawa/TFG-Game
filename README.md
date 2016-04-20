@@ -2,7 +2,7 @@
 TFG
 ===
 - Language used: Javascript
-- Platforms supported: ANYTHING that can run html and javascript... For God's Sake lol...
+- Platforms supported: ANYTHING that can run HTML5 and Javascript... For God's Sake lol... Jokes aside, this game was tested on Google Chrome version 51.0.2704.19 dev-m (64-bit).
 - Creation date: April, 7th, 2016
 - How to run: Open the "index.html" file
 - A racing game I contributed with, collaborating with ADRIAN SHIOKAWA ALVAREZ, in which you, as a player, control a car (A fancy looking white Lamborghini), which speed gradually, but constantly, increases, as a way to increase difficulty.
