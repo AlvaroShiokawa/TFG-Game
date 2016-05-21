@@ -10,7 +10,7 @@ TFG
 - You can only move your car LEFT or RIGHT, by using the respective keyboard arrow keys.
 - There are three types of obstacles: Holes, Oil Puddles and Cars.
 --- If your car touches a hole, you lose 50 points.
---- If your car touches an oil puddle, it is gonna slip randomly, either to your left or to your right, definetly making you lose control of your car.
+--- If your car touches an oil puddle, it is gonna slip randomly, either to your left or to your right, definetely making you lose control of your car.
 --- Last, if you hit another car, BOOM, you DIE and it is Game Over (Yes, sucks to be you).
 - All graphics, music and sounds belong to their respective owners! So, credits were properly given!
 - OBS: Props to SEGA for making such marvelous music!
